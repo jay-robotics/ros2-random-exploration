@@ -2,7 +2,8 @@
 
 A ROS 2 (Jazzy) package that makes a TurtleBot3 wander an unknown space on its own, using only a 2D LiDAR scan and odometry — no map or SLAM needed. It drives forward, watches for obstacles ahead, and when one shows up it scans the full 360° laser sweep to find the widest open gap to turn into next.
 
-## Demo
+## Demo<img width="3072" height="4080" alt="front side" src="https://github.com/user-attachments/assets/1aead4d3-0487-44be-bff1-36453e0f22e0" />
+
 
 https://github.com/user-attachments/assets/9ef3b5af-553e-4039-9b24-0cc54c12e490
 
